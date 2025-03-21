@@ -1,4 +1,4 @@
-# Bitterroot ValleyPRISM Climate & Elevation Analysis
+# Bitterroot Valley PRISM Climate & Elevation Analysis
 
 ## Overview
 
