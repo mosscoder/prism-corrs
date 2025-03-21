@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code to analyze the relationship between elevation and climate variables (mean annual temperature and precipitation) using PRISM 30-year climate normals (1991-2020) and SRTM elevation data through Google Earth Engine. I found Please find the code in [plot_corrs.ipynb](https://github.com/mosscoder/prism-corrs/blob/main/plot_corrs.ipynb).
+This repository contains code to analyze the relationship between elevation and climate variables (mean annual temperature and precipitation) using PRISM 30-year climate normals (1991-2020) and SRTM elevation data through Google Earth Engine. Please find the code in [plot_corrs.ipynb](https://github.com/mosscoder/prism-corrs/blob/main/plot_corrs.ipynb).
 
 ## Data Sources
 
